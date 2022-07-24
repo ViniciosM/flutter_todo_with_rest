@@ -36,7 +36,7 @@ class TodosState extends State<Todos> {
     }
 
     if (mounted) {
-      Scaffold.of(context).showSnackBar(statusMessage);
+      //Scaffold.of(context).showSnackBar(statusMessage);
     }
   }
 
